@@ -1,7 +1,7 @@
 # Website-demo
 <h4> Oxford university</h4>
 <h3>Following pictures are output of above code..</h3>
-
+<p> I hope, you found it usefull </p>
 <img src="https://github.com/ichhakumari/Oxford-clone_website/blob/main/out1.jpg">
 <IMG SRC="https://github.com/ichhakumari/Oxford-clone_website/blob/main/out2.jpg">
 <h3>About page</h3>
