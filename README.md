@@ -9,7 +9,7 @@
 <img src="https://github.com/ichhakumari/Oxford-clone_website/blob/main/about_out.jpg">
 <img src="https://github.com/ichhakumari/Oxford-clone_website/blob/main/out3.jpg">
 
-<h3> CONTACT US PAGE</h3>
+<h3 align="center"> CONTACT US PAGE</h3>
 <img src="https://github.com/ichhakumari/Oxford-clone_website/blob/main/contct_out.jpg">
 <IMG SRC="https://github.com/ichhakumari/Oxford-clone_website/blob/main/out4.jpg">
 
