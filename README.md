@@ -15,5 +15,5 @@
 
 <p> I hope, you found it usefull </p>
 <a href="https://www.ox.ac.uk/about/organisation">REFERENCE WEBSITE</a>
-<h4>Thank you :)</h4>
+<h4 align="center">Thank you :)</h4>
 
