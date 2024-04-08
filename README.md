@@ -4,7 +4,7 @@
 
 <img src="https://github.com/ichhakumari/Oxford-clone_website/blob/main/out1.jpg">
 <IMG SRC="https://github.com/ichhakumari/Oxford-clone_website/blob/main/out2.jpg">
-<h3>About page</h3>
+<h3 align="center">About page</h3>
 <img src="https://github.com/ichhakumari/Oxford-clone_website/blob/main/about_out.jpg">
 <img src="https://github.com/ichhakumari/Oxford-clone_website/blob/main/out3.jpg">
 <h3> CONTACT US PAGE</h3>
